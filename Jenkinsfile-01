@@ -1,5 +1,4 @@
 // Building WAR file 
-// test
 pipeline {
     agent none
     stages {
